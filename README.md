@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at a software agency<br>I am Hannan Sarkar<br>initializing scalable solutions. Skilled in the full <br>development lifecycle—from planning to <br>deployment—with a focus on clean, <br>maintainable code and responsive design. <br>Collaborator and independent problem<br>solver, committed to continuous learning <br>and delivering effective, user-focused <br>solutions.
+Software Developer with 2+ years of experience building scalable, maintainable web applications. Focused on clean code, responsive design, and continuous learning.
 
 
 ## 🌐 Socials:
