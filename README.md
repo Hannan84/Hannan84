@@ -1,6 +1,15 @@
 # 💫 About Me:
 Hannan Sarkar <br>
-Software Developer with 2+ years of experience building scalable, maintainable web applications. Focused on clean code, responsive design, and continuous learning.
+
+## 👨‍💻 Professional Summary
+
+Mid-level Web Developer with 2+ years of hands-on experience in Laravel, PHP, and MySQL.
+Specialized in building business-oriented web applications, including invoice systems,
+admin panels, and RESTful APIs. Strong understanding of MVC architecture, clean code
+practices, and database optimization. Passionate about delivering scalable, maintainable,
+and production-ready solutions.
+
+## 💼 Work Experience
 
 
 ## 🌐 Socials:
