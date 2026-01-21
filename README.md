@@ -1,15 +1,50 @@
-# 💫 About Me:
-Hannan Sarkar <br>
+# 💫 About Me
+
+👋 Hi, I'm **Hannan Sarkar**, a Web Developer based in Bangladesh.
+
+---
 
 ## 👨‍💻 Professional Summary
 
-Mid-level Web Developer with 2+ years of hands-on experience in Laravel, PHP, and MySQL.
-Specialized in building business-oriented web applications, including invoice systems,
-admin panels, and RESTful APIs. Strong understanding of MVC architecture, clean code
-practices, and database optimization. Passionate about delivering scalable, maintainable,
-and production-ready solutions.
+Web Developer with 2+ years of professional experience working in a
+company environment, specializing in Laravel, PHP, and MySQL. Actively involved
+in developing and maintaining real-world production applications, including
+invoice systems, admin dashboards, and business management solutions. Strong
+understanding of MVC architecture, RESTful APIs, and clean, maintainable code.
+Experienced in team collaboration and delivering scalable backend systems.
+
+---
 
 ## 💼 Work Experience
+
+### Web Developer — Softvence Agency
+**2025 – Present | Bangladesh**
+
+- Developed and maintained production-ready Laravel applications for business use
+- Built complete backend systems, including authentication and role & permission management
+- Integrated REST APIs and third-party services
+- Followed MVC architecture, clean code principles, and Git-based workflows
+- Collaborated with cross-functional teams in a professional environment
+
+---
+
+### Laravel Web Developer — BGD Online Ltd (Contract)
+**2023 – 2025 | Bangladesh**
+
+- Developed multiple Laravel applications for small business clients
+- Built admin dashboards with secure authentication and role management
+- Designed and implemented printable A4 invoice and challan layouts using Blade templates
+- Created income, expense, and reporting modules with optimized MySQL queries
+
+---
+
+## 🚀 Key Contributions
+
+- Delivered multiple real-world, production-ready business applications
+- Designed print-friendly commercial documents used in live systems
+- Improved application performance through efficient queries and backend logic
+- Maintained and enhanced existing systems based on evolving client requirements
+
 
 
 ## 🌐 Socials:
