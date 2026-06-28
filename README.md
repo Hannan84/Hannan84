@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Web Developer with 2+ years of professional experience working in a
+Web Developer with 2.5+ years of professional experience working in a
 company environment, specializing in Laravel, PHP, and MySQL. Actively involved
 in developing and maintaining real-world production applications, including
 invoice systems, admin dashboards, and business management solutions. Strong
