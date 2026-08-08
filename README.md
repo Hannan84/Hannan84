@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Hannan Sarkar**, a Web Developer based in Bangladesh.
+👋 Hi, I'm **Hannan Sarkar**, a Web Developer.
 
 ---
 
